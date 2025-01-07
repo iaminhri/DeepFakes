@@ -1,6 +1,6 @@
 Hello,
 
-I have included the image files, .ipynb (google colab) files, and project report on the root directory.
+I have included the .ipynb (google colab) files, and project report on the root directory.
 
 The datasets are not included in here. However, the dataset can be found in the data/ folder. 
 
